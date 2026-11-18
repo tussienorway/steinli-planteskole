@@ -1,0 +1,33 @@
+# 9. Kilder (hentet 17.–18.11.2026)
+- Enhetsregisteret: https://data.brreg.no/enhetsregisteret/api/enheter/924664274 og https://data.brreg.no/enhetsregisteret/api/enheter/932843560 (+ /roller)
+- Regnskapsregisteret: https://data.brreg.no/regnskapsregisteret/regnskap/932843560
+- Proff: https://www.proff.no/rolle/kristian-steinli/grimstad/1722357
+- Steinlegger Steinli / hekksalg: https://steinleggersteinli.no/ , https://steinleggersteinli.no/hekksalg , https://steinleggersteinli.no/kontakt
+- GAT 30.04.2017: https://www.gat.no/nyheter/n/Qynp0P/slik-gjoer-du-hagen-klar-for-sommeren
+- GAT 10.09.2016: https://www.gat.no/nyheter/n/V9ObbJ/frykter-kroken-paa-doera-om-plantesykdommen-kommer-hit
+- Cylex: https://www.cylex.no/grimstad/steinli%27s+hagesenter-11335762.html
+- Norid RDAP: https://rdap.norid.no/domain/agrarbossen.no
+- Agrarbörse: https://www.agrarboerse.eu/
+- Hagemarked.no: https://hagemarked.no/
+- Blomsterringen: https://www.blomsterringen.no/om-oss/
+- Plantinor: https://plantinor.no/produksjon-og-bestilling/
+- Hageland: https://hageland.no/sider/om-hageland , https://hageland.no/hagesentere
+- Norsk Gartnerforbund: https://gartnerforbundet.no/bli-medlem/
+- Floriday: https://www.floriday.io/en/international-buy
+- Royal FloraHolland: https://www.royalfloraholland.com/en/buying-2/marketplace/become-a-customer
+- FlorAccess Thuja Smaragd: https://www.floraccess.com/nl/product/33735/thuja-occidentalis-smaragd/
+- Esveld: https://esveld.shop/a/product/thuja-occidentalis-smaragd/
+- Spaargaren katalog: https://spaargaren.com/wp-content/uploads/2025/09/EU-catalog-25-26.pdf
+- Gardline: https://www.gardline.nl/thuja/thuja-smaragd
+- Thujakongen: https://thujakongen.no/product/thuja-smaragd/
+- Mattilsynet import: https://mattilsynet.no/import/import-og-innforsel-av-planter-med-mer/veileder-for-nye-importorer-av-planter-med-mer
+- Mattilsynet melding: https://mattilsynet.no/import/import-og-innforsel-av-planter-med-mer/slik-melder-du-en-importsending
+- Landbruksdirektoratet toll: https://www.landbruksdirektoratet.no/nb/industri-og-handel/toll-og-import/generell-nedsettelse-av-tollavgiftssatser/veileder-blomster-og-planter
+- Miljødirektoratet nyhet 04.02.2026: https://www.miljodirektoratet.no/aktuelt/nyheter/2026/februar-2026/102-fremmede-arter-kan-bli-forbudt/
+- Tilrådningen (PDF): https://www.miljodirektoratet.no/sharepoint/downloaditem?id=01FM3LD2XKA5SDAF46VFBYYQRDHFDYA7VX
+- Høring 2025: https://www.miljodirektoratet.no/hoeringer/2025/mars-2025/forslag-til-endringer-i-forskrift-om-fremmede-organismer/
+- Stortinget skriftlig spørsmål: https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=118288 og ?qnid=120411
+- NRK: https://www.nrk.no/norge/miljodirektoratet-onsker-a-forby-mange-fremmede-arter-1.17747565
+- Zettle priser: https://www.zettle.com/no/priser
+- Pl@ntNet API: https://my.plantnet.org/pricing
+- Regjeringen høringer: https://www.regjeringen.no/no/dokument/hoyringar/
