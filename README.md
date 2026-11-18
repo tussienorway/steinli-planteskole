@@ -23,9 +23,11 @@ Merk: inneholder research om en navngitt privatperson og hans bedrift. Hold repo
 | `07-visjon-arkitektur-roadmap.md` | Nesten autonom planteskole: arkitektur + faseplan |
 | `08-evalueringsgrunnlag.md` | Spørsmål til Codex, Antigravity og ChatGPT |
 | `09-kilder.md` | Alle kilder |
+| `10-vurderinger.md` | Tre vurderinger av planen (erstatning for Codex/AGY/ChatGPT) |
+| `fase1/` | Fase 1-verktøy: innkjøpsark, e-postmaler og brukerveiledning |
 
 ## Neste steg
 1. tussie: avklar hva «agrarbossen» var ment å være (lenke, app-navn eller skjermbilde).
 2. tussie: avklar om og hvordan Steinli skal kontaktes. Ingen kontakt er tatt.
-3. Kjør evalueringen i `08-evalueringsgrunnlag.md` (via @TussieBot – styreleder).
-4. Bygg MVP-en (regneark + bestillingskalender + e-postmaler) og test den på én innkjøpsrunde (vårsesongen 2027).
+3. Evalueringen er kjørt; se `10-vurderinger.md` (erstatning for Codex/AGY/ChatGPT).
+4. Fase 1-arket, kalenderen og e-postmalene ligger i `fase1/`. Test dem på én innkjøpsrunde (vårsesongen 2027).
